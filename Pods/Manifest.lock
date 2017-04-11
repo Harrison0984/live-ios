@@ -1,0 +1,24 @@
+PODS:
+  - LFLiveKit (2.5)
+  - ReactiveCocoa (5.0.0-alpha.3):
+    - ReactiveSwift (~> 1.0.0-alpha.3)
+  - ReactiveSwift (1.0.0-alpha.4):
+    - Result (~> 3.0)
+  - Result (3.1.0)
+  - SnapKit (3.0.2)
+
+DEPENDENCIES:
+  - LFLiveKit
+  - ReactiveCocoa (= 5.0.0-alpha.3)
+  - SnapKit (~> 3.0.2)
+
+SPEC CHECKSUMS:
+  LFLiveKit: 4361bd588ae0c9244589119ccdb1c30d14686414
+  ReactiveCocoa: d8a03d3deae0dd76410a30589946328d76ab9d2b
+  ReactiveSwift: 3fa49d2db97609ea700cd2b8f1bfbdd162024f97
+  Result: 4e3ed5995ed94d0cd6a09be9a431fce3f3624bbf
+  SnapKit: 2e456761aa92d4d4067a7a5594c18769d451a8ad
+
+PODFILE CHECKSUM: 7b1a2bc2bbbde2d9c3d3c5493fe5c4a07816a8ca
+
+COCOAPODS: 1.1.1
